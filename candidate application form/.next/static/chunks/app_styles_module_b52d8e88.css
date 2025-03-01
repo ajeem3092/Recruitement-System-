@@ -1,0 +1,49 @@
+/* [project]/app/styles.module.css [app-client] (css) */
+.styles-module__34Gd5q__formContainer {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #0000001a;
+}
+
+.styles-module__34Gd5q__formContainer h2 {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #230787;
+}
+
+.styles-module__34Gd5q__form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.styles-module__34Gd5q__form input, .styles-module__34Gd5q__form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.styles-module__34Gd5q__form textarea {
+  height: 80px;
+}
+
+.styles-module__34Gd5q__form button {
+  background-color: #230787;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.styles-module__34Gd5q__form button:hover {
+  background-color: #005bb5;
+}
+
+/*# sourceMappingURL=app_styles_module_b52d8e88.css.map*/
